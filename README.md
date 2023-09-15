@@ -20,3 +20,5 @@
            <a href="https://api.whatsapp.com/send?phone=48996290374">WhatsApp</a>
        </div>
    </div>
+<h1>Clique no link abaixo para acessar o relatório:</h1>
+    <a href="https://lookerstudio.google.com/reporting/b5b73e6a-f39e-429e-9e28-a5b95ad2aea2" target="_blank">Acessar o Relatório</a>
